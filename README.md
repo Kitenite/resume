@@ -1,3 +1,2 @@
-# resume
-## H2 My Resume/CV
+# My Resume/CV
 ### Hosted on Github Pages
